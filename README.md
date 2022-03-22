@@ -13,9 +13,9 @@
 
 ## ✏️Techstack I'm familiar with: 
 
-C 
-C++
-HTML 
+C <br>
+C++<br>
+HTML <br>
 
 
 
@@ -28,26 +28,11 @@ HTML
    <a href="https://twitter.com/ShikhaC11407577">
     <img align="left" alt="selfcares321 | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 </a> 
-  _shi_23301" height="25" width="25" /></a> 
+  
 
 <br>
 <br>
 <br>
-
-
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=priyanshiparolia"
-    alt="priyanshiparolia"
-  />
-</p>
-
-<a href=https://github.com/girlscript/winter-of-contributing>
-   <img src=https://img.shields.io/badge/GirlscriptWinterOfContributing-Contributor-mazenta>
-</a>
-
-
-
 <!---
 SHIKHACH22/SHIKHACH22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
