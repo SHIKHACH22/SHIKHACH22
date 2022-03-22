@@ -6,12 +6,12 @@
 <h3 align="left">👩🏼‍💻About Me :</h3>
 
 - A 1st year B.Tech CSE student.
-- I’m currently exploring tech world. 👀 
-- Building new skills
+- I’m currently exploring Web Development 
+- Building new skills 
 - Reach me via **shikhachatuurvedi465@gmail.com**
  
 
-💻Languages I'm familiar with: 
+💻Programming Languages I can work with:
 
 C <br>
 C++<br>
