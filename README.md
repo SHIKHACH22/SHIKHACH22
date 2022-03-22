@@ -3,15 +3,15 @@
 
 
 
-<h3 align="left">👩🏻‍💻 About Me :</h3>
+<h3 align="left">👩🏼‍💻About Me :</h3>
 
 - A 1st year B.Tech CSE student.
 - I’m currently exploring tech world. 👀 
 - Building new skills
-- 📧 Reach me via **shikhachatuurvedi465@gmail.com**
+- Reach me via **shikhachatuurvedi465@gmail.com**
  
 
-## ✏️Techstack I'm familiar with: 
+💻Languages I'm familiar with: 
 
 C <br>
 C++<br>
@@ -20,7 +20,7 @@ HTML <br>
 
 
 
-### Connect with me on my Social Handles
+📝Connect with me on my Social Handles
 
 <a href="http://www.linkedin.com/in/shikha-chaturvedi-990817212">
     <img align="left" alt="Shikha Chaturvedi | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
