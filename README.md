@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img height="40" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"> , I'm Shikha Chaturvedi</h1>
+<h1 align="center">Hi there  , Myself Shikha Chaturvedi</h1>
 <h3 align="center">First year undergraduate, Department of Computer Science</h3>
 
 
