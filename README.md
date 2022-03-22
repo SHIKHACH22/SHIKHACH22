@@ -13,8 +13,9 @@
 
 ## ✏️Techstack I'm familiar with: 
 
-C | C++ | HTML |  
---|-----|------|-----| ---
+C 
+C++
+HTML 
 
 
 
