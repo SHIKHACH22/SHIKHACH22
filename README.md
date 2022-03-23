@@ -8,7 +8,7 @@
 - A 1st year B.Tech CSE student.
 - I’m currently exploring Web Development 
 - Building new skills 
-- Reach me via **shikhachatuurvedi465@gmail.com**
+- Reach me via **shikhachaturvedi465@gmail.com**
  
 
 💻Programming Languages I can work with:
