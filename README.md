@@ -11,7 +11,7 @@
 
 - 💬 Building new skills **.**
 
-- 📫Reach me via - **shikhachaturvedi465@gmail.com**
+- 📫Reach me via - **shikhachaturvedi2216@gmail.com**
 
 - 📄 Know about my experiences [Open Resume](https://drive.google.com/file/d/1ZqRDzxLZZyoAZXQokkzI58apkwQnvwI1/view?usp=sharing)
 
