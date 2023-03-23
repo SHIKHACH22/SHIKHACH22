@@ -13,7 +13,7 @@
 
 - 📫Reach me via - **shikhachaturvedi2216@gmail.com**
 
-- 📄 Know about my experiences [Open Resume](https://drive.google.com/file/d/1ZqRDzxLZZyoAZXQokkzI58apkwQnvwI1/view?usp=sharing)
+- 📄 Know about my experiences [Open Resume](https://drive.google.com/file/d/1urcVRp6o1J49m_qrPYY7jPEl20uwNQk5/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
