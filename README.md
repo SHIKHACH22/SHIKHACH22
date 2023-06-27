@@ -7,13 +7,13 @@
 
 
 
-- 🌱 I’m currently exploring **Web development and Git.**
+- 🌱 I’m currently exploring **AI-ML using Python**
 
 - 💬 Building new skills **.**
 
-- 📫Reach me via - **shikhachaturvedi2216@gmail.com**
+- 📫Reach me via - **shikhachaturvedi465@gmail.com**
 
-- 📄 Know about my experiences [Open Resume](https://drive.google.com/file/d/1urcVRp6o1J49m_qrPYY7jPEl20uwNQk5/view?usp=share_link)
+- 📄 Know about my experiences [Open Portfolio](https://shikhach22.github.io/Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
